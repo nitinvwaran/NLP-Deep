@@ -4,7 +4,7 @@ A repository of POCs related to Natural Language Processing using Deep Learning 
 **1. Sentence Classification: A Tensorflow Implementation of 'Text Understanding From Scratch' by Xiang Zhang and Yann LeCun** <br/>
 (paper: https://arxiv.org/abs/1502.01710)
 
-This file is 'Character-Level-CNN-Sentence-Classification.ipynb' <br />
+The POC is in the jupyter notebook: 'Character-Level-CNN-Sentence-Classification.ipynb' <br />
 This POC is an implementation in Tensorflow of the paper 'Text Understanding From Scratch' by Xiang Zhang and Yann LeCun.
 The dataset used is the **Full Amazon Product Reviews Dataset**, which contains three columns: <br/>
 1. The Review Number, on a scale of 1-5 <br/>
