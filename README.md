@@ -1,7 +1,7 @@
 # NLP-Deep
 A repository of POCs related to Natural Language Processing using Deep Learning Frameworks
 
-**1. A Tensorflow Implementation of 'Text Understanding From Scratch' by Xiang Zhang and Yann LeCun**
+**1. A Tensorflow Implementation of 'Text Understanding From Scratch' by Xiang Zhang and Yann LeCun** <br/>
 (paper: https://arxiv.org/abs/1502.01710)
 
 This file is 'Character-Level-CNN-Sentence-Classification.ipynb'
