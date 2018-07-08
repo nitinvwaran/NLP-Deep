@@ -12,7 +12,7 @@ The dataset used is the **Full Amazon Product Reviews Dataset**, which contains 
 3. The Review Description <br/>
 Only the Review Number and the Review Description are used.
 
-For comparison, the accuracy reported by the Authors (using Torch7) for the dataset is <br />
+For comparison, the accuracy reported by the Authors (using Torch) for the dataset is <br />
 **Training: 62.96%** (Sample size: 3,000,000) <br />
 **Test: 58.69%** (Sample size: 650,000) <br />
 
