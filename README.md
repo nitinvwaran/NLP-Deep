@@ -22,10 +22,10 @@ The accuracy from this POC is as below: <br />
 **Test: tbd** (Sample size: 135,340) <br/>
 <br/>
 The training accuracy graph over time:
-![alt text](https://github.com/nitinvwaran/NLP-Deep/blob/master/Sentence-Classification/Train_Accuracy_Tensorboard.PNG)
+![alt text](https://github.com/nitinvwaran/NLP-Deep/blob/master/Sentence-Classification/Zhang_Text_Understanding_Scratch/Train_Accuracy_Tensorboard.PNG)
 <br />
 The average cross-entropy training loss over time:
-![alt text](https://github.com/nitinvwaran/NLP-Deep/blob/master/Sentence-Classification/Cross_Entropy_Average_Loss_Tensorboard.PNG)
+![alt text](https://github.com/nitinvwaran/NLP-Deep/blob/master/Sentence-Classification/Zhang_Text_Understanding_Scratch/Cross_Entropy_Average_Loss_Tensorboard.PNG)
 <br />
 The validation / dev accuracy graph over time:
-![alt text](https://github.com/nitinvwaran/NLP-Deep/blob/master/Sentence-Classification/Valid_Accuracy_Tensorboard.PNG)
+![alt text](https://github.com/nitinvwaran/NLP-Deep/blob/master/Sentence-Classification/Zhang_Text_Understanding_Scratch/Valid_Accuracy_Tensorboard.PNG)
