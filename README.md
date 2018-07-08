@@ -7,7 +7,7 @@ A repository of POCs related to Natural Language Processing using Deep Learning 
 The POC is in the jupyter notebook: 'Zhang-Text-Understanding-Scratch.ipynb' <br /> <br />
 This POC is an implementation in Tensorflow of the paper 'Text Understanding From Scratch' by Xiang Zhang and Yann LeCun, which uses Deep Convolutional Networks to classify sentences using Character-Level features present in the sentence. No Word-level features are used. <br />
 The main features of the network are a 1-D Convolution and a 1-D Temporal Max Pooling layer. <br />
-There are **six 1-D Convolution layers**, and **three 1-D Max Pooling Layers**, followed by **three Fully Connected Layers**. **Batch Normalization** was applied in all these layers except the last fully connected layer, to avoid the **vanishing gradients problem resulting from Deep ConvNets** <br/> <br/>
+There are **six 1-D Convolution layers**, and **three 1-D Max Pooling Layers**, followed by **three Fully Connected Layers**. <br /> **Batch Normalization** was applied in all these layers except the last fully connected layer, to avoid the **vanishing gradients problem resulting from Deep ConvNets** <br/> <br/>
 The diagrammatic representation of the model, is as shown below from the original paper: <br />
 ![alt text](https://github.com/nitinvwaran/NLP-Deep/blob/master/Sentence-Classification/Zhang_Text_Understanding_Scratch/model_illustration.PNG)
 <br />
