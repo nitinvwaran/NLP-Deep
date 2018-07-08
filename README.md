@@ -2,6 +2,7 @@
 A repository of POCs related to Natural Language Processing using Deep Learning Frameworks
 
 **1. A Tensorflow Implementation of 'Text Understanding From Scratch' by Xiang Zhang and Yann LeCun**
+(paper: https://arxiv.org/abs/1502.01710)
 
 This file is 'Character-Level-CNN-Sentence-Classification.ipynb'
 This POC is an implementation in Tensorflow of the paper 'Text Understanding From Scratch' by Xiang Zhang and Yann LeCun. 
