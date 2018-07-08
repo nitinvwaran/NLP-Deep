@@ -4,10 +4,13 @@ A repository of POCs related to Natural Language Processing using Deep Learning 
 **1. Sentence Classification: A Tensorflow Implementation of 'Text Understanding From Scratch' by Xiang Zhang and Yann LeCun** <br/>
 (paper: https://arxiv.org/abs/1502.01710)
 
-The POC is in the jupyter notebook: 'Zhang-Text-Understanding-Scratch.ipynb' <br />
+The POC is in the jupyter notebook: 'Zhang-Text-Understanding-Scratch.ipynb' <br /> <br />
 This POC is an implementation in Tensorflow of the paper 'Text Understanding From Scratch' by Xiang Zhang and Yann LeCun, which uses Deep Convolutional Networks to classify sentences using Character-Level features present in the sentence. No Word-level features are used. <br />
 The main features of the network are a 1-D Convolution and a 1-D Temporal Max Pooling layer. <br />
 There are **six 1-D Convolution layers**, and **three 1-D Max Pooling Layers**, followed by **two Fully Connected Layers**.  <br/> <br/>
+The diagrammatic representation of the model, is as shown below from the original paper: <br />
+![alt text](https://github.com/nitinvwaran/NLP-Deep/blob/master/Sentence-Classification/Zhang_Text_Understanding_Scratch/model_illustration.PNG)
+<br />
 The dataset used is the **Full Amazon Product Reviews Dataset**, which contains three columns: <br/>
 1. The Review Number, on a scale of 1-5 (five labels) <br/>
 2. The Review Title <br/>
