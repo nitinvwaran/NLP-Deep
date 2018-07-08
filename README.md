@@ -13,9 +13,9 @@ The dataset used is the **Full Amazon Product Reviews Dataset**, which contains 
 3. The Review Description <br/>
 Only the Review Number and the Review Description are used.
 
-For comparison, the accuracy reported by the Authors (using Torch7) for the dataset is <br/>
-**Training: 62.96%** (Sample size: 3,000,000) <br/>
-**Test: 58.69%** (Sample size: 650,000) <br/>
+For comparison, the accuracy reported by the Authors (using Torch7) for the dataset is <br />
+**Training: 62.96%** (Sample size: 3,000,000) <br />
+**Test: 58.69%** (Sample size: 650,000) <br />
 
 The accuracy from this POC is as below: <br/ >
 **Training: 63.45%** (Sample size: 624,000) <br/>
@@ -24,3 +24,9 @@ The accuracy from this POC is as below: <br/ >
 <br/>
 The training accuracy graph over time:
 ![alt text](https://github.com/nitinvwaran/NLP-Deep/blob/master/Sentence-Classification/Train_Accuracy_Tensorboard.PNG)
+<br />
+The average cross-entropy training loss over time:
+![alt text](https://github.com/nitinvwaran/NLP-Deep/blob/master/Sentence-Classification/Cross_Entropy_Average_Loss_Tensorboard.PNG)
+<br />
+The validation / dev accuracy graph over time:
+![alt text](https://github.com/nitinvwaran/NLP-Deep/blob/master/Sentence-Classification/Valid_Accuracy_Tensorboard.PNG)
