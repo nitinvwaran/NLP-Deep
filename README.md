@@ -5,7 +5,7 @@ A repository of POCs related to Natural Language Processing using Deep Learning 
 (paper: https://arxiv.org/abs/1502.01710)
 
 The POC is in the jupyter notebook: 'Character-Level-CNN-Sentence-Classification.ipynb' <br />
-This POC is an implementation in Tensorflow of the paper 'Text Understanding From Scratch' by Xiang Zhang and Yann LeCun.
+This POC is an implementation in Tensorflow of the paper 'Text Understanding From Scratch' by Xiang Zhang and Yann LeCun, which uses Deep Convolutional Networks to classify sentences using Character-Level features present in the sentence. No Word-level features are used. <br />
 The dataset used is the **Full Amazon Product Reviews Dataset**, which contains three columns: <br/>
 1. The Review Number, on a scale of 1-5 <br/>
 2. The Review Title <br/>
