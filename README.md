@@ -19,7 +19,7 @@ For comparison, the accuracy reported by the Authors (using Torch) for the datas
 The accuracy from this POC is as below: <br />
 **Training: 63.45%** (Sample size: 624,000) <br/>
 **Dev: 51.34%** (Sample size: 20,000) <br/>
-**Test: tbd** (Sample size: 135,340) <br/>
+**Test: 46.19%** (Sample size: 135,340) <br/>
 <br/>
 The training accuracy graph over time:
 ![alt text](https://github.com/nitinvwaran/NLP-Deep/blob/master/Sentence-Classification/Zhang_Text_Understanding_Scratch/Train_Accuracy_Tensorboard.PNG)
