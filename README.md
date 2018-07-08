@@ -1,5 +1,5 @@
 # NLP-Deep
-A repository of POCs related to Deep Learning and NLP
+A repository of POCs related to Natural Language Processing using Deep Learning Frameworks
 
 **1. A Tensorflow Implementation of 'Text Understanding From Scratch' by Xiang Zhang and Yann LeCun**
 
